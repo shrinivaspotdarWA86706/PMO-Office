@@ -1,0 +1,7 @@
+Project Name: PMO Office
+
+Requirement Gathering
+Planning
+Execution
+Testing
+Deployment
